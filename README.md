@@ -9,8 +9,6 @@ I'm a passionate Fullstack Developer with over 3 years of experience delivering 
 
 Whether it's architecting distributed systems with Docker & AWS or crafting smooth user experiences in React & TypeScript, I thrive in transforming ideas into functional, reliable software.
 
-Outside of the code, I’m a team player — shaped by my time in the Air Force, freelance roles, and even leading a high school coding team (SKILLZ). Oh, and I play a mean game of volleyball 🏐.
-
 ### 🛠 Tech Stack & Tools
 
 **Frontend**  
