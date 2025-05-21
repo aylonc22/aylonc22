@@ -9,6 +9,8 @@ I'm a passionate Fullstack Developer with over 3 years of experience delivering 
 
 Whether it's architecting distributed systems with Docker & AWS or crafting smooth user experiences in React & TypeScript, I thrive in transforming ideas into functional, reliable software.
 
+---
+
 ### 🛠 Tech Stack & Tools
 
 **Frontend**  
@@ -24,6 +26,9 @@ Whether it's architecting distributed systems with Docker & AWS or crafting smoo
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EFC820?style=for-the-badge&logo=amazonaws&logoColor=black)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Tools & Other Skills**  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -38,6 +43,8 @@ Whether it's architecting distributed systems with Docker & AWS or crafting smoo
 ![Aylon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aylonc22&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aylonc22&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aylonc22&theme=radical)
 
 ---
 
