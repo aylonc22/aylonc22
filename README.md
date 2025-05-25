@@ -5,7 +5,7 @@ Fullstack Developer | Cloud Enthusiast | Problem Solver
 
 ### 🚀 About Me
 
-I'm a passionate Fullstack Developer with over 3 years of experience delivering scalable, real-world applications — from backend APIs and cloud infrastructure to pixel-perfect frontend interfaces.
+I'm a Fullstack Developer with over 3 years of experience delivering scalable, real-world applications — from backend APIs and cloud infrastructure to pixel-perfect frontend interfaces.
 
 Whether it's architecting distributed systems with Docker & AWS or crafting smooth user experiences in React & TypeScript, I thrive in transforming ideas into functional, reliable software.
 
